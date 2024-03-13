@@ -1,0 +1,29 @@
+#buttons {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+
+#results {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+#results-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+#rock {
+   background-color: yellow;
+}
+#paper {
+   background-color: bisque;
+}
+#scissors {
+   background-color: aquamarine;
+}
